@@ -1,2 +1,2 @@
 ## Parallax
-[Parallax](https://artem-viktorovich.github.io/parallax/index.html)
+[Parallax](https://artem-viktorovich/parallax.github.io/parallax/index.html)
