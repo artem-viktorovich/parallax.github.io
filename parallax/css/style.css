@@ -16,7 +16,15 @@ img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 /*--------------------*/
 
+body{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
 
+.wrapper{
+	width: 100%;
+	min-height: 100%;
+	overflow: hidden;
+}
 .page {
 	position: absolute;
 	width: 100%;
