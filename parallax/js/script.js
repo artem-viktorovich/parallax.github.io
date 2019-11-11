@@ -10,7 +10,7 @@ $(document).ready(function() {
 
 			var z_1 = 1+(w/10000*p_b);
 		$(".parallax__fog").css("transform","scale("+z_1+")");
-		$(".parallax__fog").css("opacity",0);
+		$(".parallax__fog").css("opacity",o);
 
 			var z_2=1+(w/5000000*p);
 		$(".parallax__montain_1").css("transform","scale("+z_2+")");
